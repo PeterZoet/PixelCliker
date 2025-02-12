@@ -6,7 +6,7 @@
 
 <p align="center">
     <img 
-        src="https://github.com/JustPeter64/PixelCliker/media/PixelClicker.png"
+        src="https://github.com/PeterZoet/PixelCliker/blob/main/media/PixelClicker.png"
         width="400" 
         alt="Pixel Clicker button"
     >
