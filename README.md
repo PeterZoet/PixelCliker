@@ -4,10 +4,5 @@
 
 #### Play the game yourself! [PixelClicker](https://peterzoet.github.io/PixelCliker/)
 
-<p align="center">
-    <img 
-        src="https://github.com/PeterZoet/PixelCliker/blob/main/media/PixelClicker.png"
-        width="400" 
-        alt="Pixel Clicker button"
-    >
-</p>
+[![](https://github.com/PeterZoet/PixelCliker/blob/main/media/PixelClicker.png/path/image)](#)
+
